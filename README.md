@@ -1,11 +1,12 @@
 # 图片爬虫
-使用方法 例：https://cdn.jsdelivr.net/gh/x-dr/b/pic/n.png
+访问单张图片 例：https://cdn.jsdelivr.net/gh/x-dr/b/pic/xxxx.png
 
-> https://cdn.jsdelivr.net/gh/x-dr/b/pic/1.png
+> https://cdn.jsdelivr.net/gh/x-dr/b/pic/jsDeliver.PNG
 
 
 
 
 # 加速访问
-https://cdn.jsdelivr.net/gh/x-dr/pypic/
+https://cdn.jsdelivr.net/gh/x-dr/pypic@master/
+
 ![1](https://cdn.jsdelivr.net/gh/x-dr/pypic@2.0/pic/jsDeliver.PNG)
