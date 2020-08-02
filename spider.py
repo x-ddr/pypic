@@ -21,7 +21,7 @@ def pages_from_duitang(label):
     pages=[]
     url='https://www.duitang.com/napi/blog/list/by_search/?kw={}&type=feed&start={}'
     label=urllib.parse.quote(label)
-    for index in range(264,480,24):
+    for index in range(480,720,24):
         u=url.format(label,index)
         print(u)
         page=get_page(u)
