@@ -5,7 +5,7 @@ import json
 import threading
 
 
-thread_lock=threading.BoundedSemaphore(value=24)
+thread_lock=threading.BoundedSemaphore(value=8)
 
 
 
