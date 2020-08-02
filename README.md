@@ -8,3 +8,4 @@
 
 # 加速访问
 https://cdn.jsdelivr.net/gh/x-dr/pypic/
+![1](https://cdn.jsdelivr.net/gh/x-dr/pypic@2.0/pic/jsDeliver.PNG)
