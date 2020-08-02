@@ -53,7 +53,7 @@ def pic_urls_from_pages(pages):
 
 def download_pices(url,n):
     r=requests.get(url)
-    path='ll/'+str(n)
+    path='x/'+str(n)
     with open(path,'wb')as f:
         f.write(r.content)
     thread_lock.release()
@@ -75,4 +75,4 @@ def main(label):
         t.start()
 
 
-main('小姐姐')
+main('壁纸')
